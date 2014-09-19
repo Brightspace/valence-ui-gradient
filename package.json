@@ -1,0 +1,11 @@
+{
+  "name": "gradient-stylist",
+  "description": "introduce a gradient style",
+  "version": "0.0.0",
+  "author": "D2L Incorporated",
+  "private": "true",
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@git.dev.d2l:7999/val/gradient.git"
+  }
+}
