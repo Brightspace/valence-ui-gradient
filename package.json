@@ -1,10 +1,9 @@
 {
-  "name": "gradient-stylist",
-  "description": "introduce a gradient style",
+  "name": "vui-gradient",
+  "description": "Valence.UI gradient library",
   "version": "0.0.0",
   "author": "D2L Incorporated",
   "license": "Apache-2.0",
-  "private": "true",
   "repository": {
     "type": "git",
     "url": "ssh://git@git.dev.d2l:7999/val/gradient.git"
