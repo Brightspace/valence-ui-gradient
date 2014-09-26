@@ -14,7 +14,7 @@ npm install --save-dev vui-gradient
 Import the library into your LESS file:
 
 ```css
-@import 'node_modules/vui-gradient/src/gradient'
+@import 'node_modules/vui-gradient/gradient'
 ```
 
 ##API
