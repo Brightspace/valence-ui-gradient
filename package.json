@@ -7,5 +7,10 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/Desire2Learn-Valence/valence-ui-gradient.git"
-  }
+  },
+  "keywords": [
+    "d2l",
+    "valence-ui",
+    "vui"
+  ]
 }
