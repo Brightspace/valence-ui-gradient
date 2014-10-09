@@ -25,7 +25,7 @@ To apply a vertical gradient:
 
 ```css
 div {
-  .vui-gradient-vertical( @startColor, @endColor, @fallbackColor = @startColor );
+  #vui.gradient-vertical( @startColor, @endColor, @fallbackColor = @startColor );
 }
 ```
 
@@ -38,7 +38,7 @@ To apply a horizontal gradient:
 
 ```css
 div {
-  .vui-gradient-horizontal( @startColor, @endColor, @fallbackColor = @startColor );
+  #vui.gradient-horizontal( @startColor, @endColor, @fallbackColor = @startColor );
 }
 ```
 
