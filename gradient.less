@@ -3,13 +3,11 @@
 	.gradient-vertical( @startColor: #eee, @endColor: #fff, @fallbackColor: @startColor ) {
 		background: @fallbackColor;
 		background: linear-gradient(to bottom, @startColor 0%, @endColor 100%);
-		filter:progid:DXImageTransform.Microsoft.gradient( GradientType=0, @startColor, @endColor );
 	}
 
 	.gradient-horizontal( @startColor: #eee, @endColor: #fff, @fallbackColor: @startColor) {
 		background: @fallbackColor;
 		background: linear-gradient(to right, @startColor 0%, @endColor 100%);
-		filter:progid:DXImageTransform.Microsoft.gradient( GradientType=1, @startColor, @endColor );
 	}
 
 }
