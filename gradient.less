@@ -1,11 +1,11 @@
 #vui {
 
-	.gradient-vertical( @startColor: #eee, @endColor: #fff, @fallbackColor: @startColor ) {
+	.gradientVertical( @startColor: #eee, @endColor: #fff, @fallbackColor: @startColor ) {
 		background: @fallbackColor;
 		background: linear-gradient(to bottom, @startColor 0%, @endColor 100%);
 	}
 
-	.gradient-horizontal( @startColor: #eee, @endColor: #fff, @fallbackColor: @startColor) {
+	.gradientHorizontal( @startColor: #eee, @endColor: #fff, @fallbackColor: @startColor) {
 		background: @fallbackColor;
 		background: linear-gradient(to right, @startColor 0%, @endColor 100%);
 	}
