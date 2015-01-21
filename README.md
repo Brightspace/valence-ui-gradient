@@ -2,8 +2,7 @@
 [![NPM version][npm-image]][npm-url]
 [![Build status][ci-image]][ci-url]
 
-This library contains LESS mixins for creating CSS gradients which work
-across browsers, including IE9.
+This library contains LESS mixins for creating linear CSS gradients.
 
 [npm-url]: https://npmjs.org/package/vui-gradient
 [npm-image]: https://badge.fury.io/js/vui-gradient.png
