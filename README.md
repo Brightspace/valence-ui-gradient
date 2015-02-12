@@ -1,4 +1,4 @@
-#VUI Gradient
+# vui-gradient
 [![NPM version][npm-image]][npm-url]
 [![Build status][ci-image]][ci-url]
 
