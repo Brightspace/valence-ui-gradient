@@ -1,11 +1,14 @@
 # vui-gradient
 [![NPM version][npm-image]][npm-url]
 [![Build status][ci-image]][ci-url]
+[![Dependency Status][dependencies-image]][dependencies-url]
 
-[npm-url]: https://npmjs.org/package/vui-gradient
+[npm-url]: https://www.npmjs.org/package/vui-gradient
 [npm-image]: https://img.shields.io/npm/v/vui-gradient.svg
-[ci-image]: https://travis-ci.org/Brightspace/valence-ui-gradient.svg?branch=master
 [ci-url]: https://travis-ci.org/Brightspace/valence-ui-gradient
+[ci-image]: https://img.shields.io/travis-ci/Brightspace/valence-ui-gradient.svg
+[dependencies-url]: https://david-dm.org/brightspace/valence-ui-gradient
+[dependencies-image]: https://img.shields.io/david/Brightspace/valence-ui-gradient.svg
 
 This library contains LESS mixins for creating linear CSS gradients.
 
