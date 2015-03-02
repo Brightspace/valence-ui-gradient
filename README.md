@@ -6,7 +6,7 @@
 [npm-url]: https://www.npmjs.org/package/vui-gradient
 [npm-image]: https://img.shields.io/npm/v/vui-gradient.svg
 [ci-url]: https://travis-ci.org/Brightspace/valence-ui-gradient
-[ci-image]: https://img.shields.io/travis-ci/Brightspace/valence-ui-gradient.svg
+[ci-image]: https://travis-ci.org/Brightspace/valence-ui-gradient.svg?branch=master
 [dependencies-url]: https://david-dm.org/brightspace/valence-ui-gradient
 [dependencies-image]: https://img.shields.io/david/Brightspace/valence-ui-gradient.svg
 
