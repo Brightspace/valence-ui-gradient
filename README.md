@@ -10,7 +10,7 @@
 [dependencies-url]: https://david-dm.org/brightspace/valence-ui-gradient
 [dependencies-image]: https://img.shields.io/david/Brightspace/valence-ui-gradient.svg
 
-This library contains LESS mixins for creating linear CSS gradients.
+This library contains mixins for creating linear CSS gradients.
 
 #### Coding styles
 See the [VUI Best Practices & Style Guide](https://github.com/Brightspace/valence-ui-docs/wiki/Best-Practices-&-Style-Guide) for information on VUI naming conventions, plus information about the [EditorConfig](http://editorconfig.org) rules used in this repo.
