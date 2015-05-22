@@ -1,7 +1,7 @@
 {
   "name": "vui-gradient",
-  "description": "LESS mixins for generating cross-browser gradient CSS",
-  "version": "0.2.2",
+  "description": "Mixins for generating cross-browser gradient CSS",
+  "version": "0.2.3",
   "author": "D2L Corporation",
   "license": "Apache-2.0",
   "repository": {
