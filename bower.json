@@ -1,0 +1,22 @@
+{
+  "name": "vui-gradient",
+  "version": "0.3.0",
+  "homepage": "https://github.com/Brightstpace/valence-ui-gradient.git",
+  "authors": [
+    "D2L Corporation"
+  ],
+  "description": "Mixins for generating cross-browser gradient CSS",
+  "main": "gradient.scss",
+  "keywords": [
+    "d2l",
+    "valence-ui",
+    "vui",
+    "gradient"
+  ],
+  "license": "Apache-2.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ]
+}
